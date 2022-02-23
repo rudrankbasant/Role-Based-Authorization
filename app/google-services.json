@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209284103079",
+    "project_id": "delivery-management-b2e7e",
+    "storage_bucket": "delivery-management-b2e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209284103079:android:1c9b625bb02743900ad482",
+        "android_client_info": {
+          "package_name": "com.example.ieee_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209284103079-agj3usriqurtjlllgsb5omba6d72sio7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu0Ft-_C3OymQSo95DoEtE5OhwsiJ7lU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209284103079-agj3usriqurtjlllgsb5omba6d72sio7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
