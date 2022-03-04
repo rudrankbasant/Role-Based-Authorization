@@ -1,11 +1,5 @@
-# IEEE-Task
+# Role-Based Authorization
 Authorization with Firebase for Admin, Truck Driver and User. </Br>
-
-Couldn't complete the entire task, but here's the basic authorization part.</br>
-
-
-Bonus Task was to use fragments. I did do the bonus task though.</br>
-Login And Registration Screens are fragments. [Navigation of fragments is with the help of the nav graph].</br>
 
 
 
